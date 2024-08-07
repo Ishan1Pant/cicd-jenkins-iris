@@ -1,2 +1,2 @@
-This is a message to test the workflow.
-Testing for Jenkins.
+Hi 
+This is a simple project to demonstrate the working of CI CD pipelines through Jenkins.
